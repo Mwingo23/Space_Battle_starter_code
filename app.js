@@ -1,10 +1,10 @@
-//Declaring ship class
+//Declaring object 
 class ship {
-    constructor(name,hull,firePW,acc){
+    constructor(name,hull,firePower,accuracy){
         this.name = name;
         this.hull = hull;
-        this.firePW = firePW;
-        this.acc = acc
+        this.firePower = firePower;
+        this.accuracy = accuracy;
     };
 //Setting value of 
 }
